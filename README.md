@@ -1,6 +1,5 @@
 # Simon-s-Obstacle-Game
 >Swings Obstacle Game!
-![board](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/332b1c01-75e2-41e2-8eec-5055f7b34c55)
 
 ## Instructions
 Open the game in full screen (Maximize window) for the best experience.
@@ -8,6 +7,9 @@ Click the "Roll" button to roll the dice and get a random number between 1 and 9
 Click the "Play" button to move the player on the board based on the rolled number..
 Click the "Reset" button to clear the rolling number of the dice.
 Winning: The game will announce the winner when one of the players reaches position 100.
+
+![board](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/1c4b2faf-e67d-4876-bceb-2b30a164696e)
+
 
 ## Features
 Players: The game supports 2 players.
