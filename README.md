@@ -1,6 +1,7 @@
 # Simon-s-Obstacle-Game
 >Welcome to the Swings Obstacle Game!
 ![image](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/0b317a68-042a-455d-9702-63d02682d56d)
+
 ## Instructions
 Open the game in full screen (Maximize window) for the best experience.
 Click the "Roll" button to roll the dice and get a random number between 1 and 9.
@@ -23,5 +24,12 @@ Randomness: Dice rolling generates a random number for unpredictability.
 6. The game has obstracle in the path.
 7. The first player to reach square 100 wins the game.
 
+## Game Board
+The game board consists of 100 squares with obstracles.
+Player 1 is represented by the Gottiyo (Tokens) with the label "Player 1."
+Player 2 is represented by the Gottiyo (Tokens) with the label "Player 2."
+
+## Winning the game
+The game ends when one of the players reaches square 100. The winning player is displayed on the screen.
 
 
