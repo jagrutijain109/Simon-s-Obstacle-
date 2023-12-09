@@ -2,18 +2,18 @@
 >Swings Obstacle Game!
 
 ## Instructions
-Open the game in full screen (Maximize window) for the best experience.
 Click the "Roll" button to roll the dice and get a random number between 1 and 9.
 Click the "Play" button to move the player on the board based on the rolled number..
 Click the "Reset" button to clear the rolling number of the dice.
 Winning: The game will announce the winner when one of the players reaches position 100.
 
-![board](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/1c4b2faf-e67d-4876-bceb-2b30a164696e)
+![image](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/612a5993-fe2d-4658-89f5-701b40589ad9)
+
 
 
 ## Features
-Players: The game supports 2 players.
-Obstacles: There are certain positions on the board that act as obstacles, causing players to skip their turn.
+
+Obstacles: There are certain positions on the board that act as obstacles, causing players to skip their turn,return to start and jump over.
 Graphics: The game has a graphical interface with images representing players, dice, and the game board.
 Randomness: Dice rolling generates a random number for unpredictability.
 
@@ -28,8 +28,8 @@ Randomness: Dice rolling generates a random number for unpredictability.
 
 ## Game Board
 The game board consists of 100 squares with obstracles.
-Player 1 is represented by the Gottiyo (Tokens) with the label "Player 1."
-Player 2 is represented by the Gottiyo (Tokens) with the label "Player 2."
+Player 1 is represented by the Tokens with the label "Player 1."
+Player 2 is represented by the Tokens with the label "Player 2."
 
 ## Winning the game
 The game ends when one of the players reaches square 100. The winning player is displayed on the screen.
