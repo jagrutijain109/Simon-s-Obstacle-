@@ -1,35 +1,45 @@
-# Simon-s-Obstacle-Game
->Swings Obstacle Game!
-
-## Instructions
-Click the "Roll" button to roll the dice and get a random number between 1 and 9.
-Click the "Play" button to move the player on the board based on the rolled number..
-Click the "Reset" button to clear the rolling number of the dice.
-Winning: The game will announce the winner when one of the players reaches position 100.
-
-![image](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/612a5993-fe2d-4658-89f5-701b40589ad9)
-
-
+# Simon's Obstacle Course Game
+>Welcome to Simon's Obstacle Board Game! Navigate your way through traps and challenges in this thrilling board game.
 
 ## Features
 
-Obstacles: There are certain positions on the board that act as obstacles, causing players to skip their turn,return to start and jump over.
-Graphics: The game has a graphical interface with images representing players, dice, and the game board.
-Randomness: Dice rolling generates a random number for unpredictability.
+### Two Difficulty Levels: 
+Choose between Easy and Hard levels to match your skill.
+Interactive GUI: A user-friendly graphical interface with buttons for rolling dice, playing turns, and more.
+### Obstacles and Traps: 
+Encounter black holes, spikes, and fires that test your luck and strategy.
 
-## How to Run
-1. Compile and run the class.
-2. The game window will open.
-3. Click the "Roll" button to roll the dice.
-4. The dice will show a random number, and your game piece will move accordingly.
-5. Players take turns rolling the dice and moving their game piece.
-6. The game has obstracle in the path.
-7. The first player to reach square 100 wins the game.
+### Player Progression: 
+Visual markers and animations display player positions and movements on the board.
 
-## Game Board
-The game board consists of 100 squares with obstracles.
-Player 1 is represented by the Tokens with the label "Player 1."
-Player 2 is represented by the Tokens with the label "Player 2."
+### Dynamic Gameplay:
+Each game session is different, with random dice rolls ensuring a unique experience every time.
+
+### Top Score Tracking: 
+Keep track of high scores and celebrate victories.
+![Easy Level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/74aca65a-8766-4b2a-be65-6e4b558f7683)
+![hard level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/5cfac709-7982-4be8-b75e-bb78f817d035)
+
+## How to Play
+
+### Start the Game:
+Launch the application and hit the "Start" button.
+### Roll the Dice: 
+Click "Roll" to roll the dice and determine your moves.
+### Play Your Turn: 
+Hit "Play" to move your piece according to the dice roll.
+### Change Level:
+Click "Change Level" to toggle between Easy and Hard difficulty.
+### Reset: 
+If you wish to start over, press "Reset" to clear the dice roll.
+
+## Game Rules
+1.Each player takes turns rolling the dice and moving their piece forward by the number shown.
+2.Landing on an obstacle may send you back or skip your turn.
+3.The first player to reach the "Finish" square wins the game.
+
+### Installation
+No installation required! This game runs with Java Runtime Environment. Ensure you have JRE installed and simply execute the Main.java file to launch the game.
 
 ## Winning the game
 The game ends when one of the players reaches square 100. The winning player is displayed on the screen.
