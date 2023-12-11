@@ -17,8 +17,6 @@ Each game session is different, with random dice rolls ensuring a unique experie
 
 ### Top Score Tracking: 
 Keep track of high scores and celebrate victories.
-![Easy Level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/74aca65a-8766-4b2a-be65-6e4b558f7683)
-![hard level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/5cfac709-7982-4be8-b75e-bb78f817d035)
 
 # How to Play
 
