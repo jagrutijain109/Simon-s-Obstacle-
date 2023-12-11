@@ -1,7 +1,7 @@
 # Simon's Obstacle Course Game
 >Welcome to Simon's Obstacle Board Game! Navigate your way through traps and challenges in this thrilling board game.
 
-## Features
+# Features
 
 ### Two Difficulty Levels: 
 Choose between Easy and Hard levels to match your skill.
@@ -20,7 +20,7 @@ Keep track of high scores and celebrate victories.
 ![Easy Level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/74aca65a-8766-4b2a-be65-6e4b558f7683)
 ![hard level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/5cfac709-7982-4be8-b75e-bb78f817d035)
 
-## How to Play
+# How to Play
 
 ### Start the Game:
 Launch the application and hit the "Start" button.
@@ -33,15 +33,18 @@ Click "Change Level" to toggle between Easy and Hard difficulty.
 ### Reset: 
 If you wish to start over, press "Reset" to clear the dice roll.
 
-## Game Rules
+# Game Rules
 1.Each player takes turns rolling the dice and moving their piece forward by the number shown.
 2.Landing on an obstacle may send you back or skip your turn.
 3.The first player to reach the "Finish" square wins the game.
 
-### Installation
+## Installation
 No installation required! This game runs with Java Runtime Environment. Ensure you have JRE installed and simply execute the Main.java file to launch the game.
 
 ## Winning the game
 The game ends when one of the players reaches square 100. The winning player is displayed on the screen.
+
+![Easy Level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/74aca65a-8766-4b2a-be65-6e4b558f7683)
+![hard level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/5cfac709-7982-4be8-b75e-bb78f817d035)
 
 
