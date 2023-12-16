@@ -42,7 +42,11 @@ No installation required! This game runs with Java Runtime Environment. Ensure y
 ## Winning the game
 The game ends when one of the players reaches square 100. The winning player is displayed on the screen.
 
-![Easy Level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/74aca65a-8766-4b2a-be65-6e4b558f7683)
-![hard level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/5cfac709-7982-4be8-b75e-bb78f817d035)
+![hard level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/ca35b030-8fd7-48ae-9a58-4c6fdf02ff4f)
+![easy level](https://github.com/jagrutijain109/Simon-s-Obstacle-/assets/94118253/15b64512-f078-49a0-b6b6-6cab65914203)
+
+
+
+
 
 
